@@ -1,19 +1,30 @@
-Python Space Adventure
-Games:
-	Asteroid Dodging Game (Mercury)  - Andrew Vo
+## Python Space Adventure
+
+### Games:
+
+	Asteroid Dodging Game (Mercury)  - Andrew Vo	
+
 	Simon Memory Game (Venus) - Stephen Daloisio
+
 	Space Quiz (Earth) - Eric Wan
+
 	Minesweeper Game (Mars) - Anthony Knesis
+
 	Alien Shooting Game (Jupiter) - Anthony Romano
+
 	
-Dependencies:
+### Dependencies:
+
 	pickle
+	
 	PIL
+	
 	pygame
+	
 	Tkinter
 
 
-Notes:
+### Notes:
 1. Install pygame and PIL. Pygame will be necessary for the Asteroid dodging game and the Simon memory game. PIL is needed for the Space Quiz.
 2. The main file is python_final_menu.py. Use it to create/load profiles, start the game, etc.
 3. Some features (such as fonts) may not work depending on operating system. 
